@@ -1,10 +1,14 @@
-# Android_Counter
+# <img src="/img/play_store_512.png" alt= “” width="4%" style="display: block; margin: 0 auto"> Android_Counter 
  An counter app with graphical interface - Android Studio Flamingo
 
-<img src="/img/play_store_512.png.png" alt= “” width="20%" style="display: block; margin: 0 auto">
+
+
+
 
 ## How the app looks like
-!["Mobile app"](/img/counter_app.jpg)
+
+
+<img src="/img/counter_app.jpg" alt= “” width="30%" style="display: block; margin: 0 auto">
 
 Instructions
  - Click Count to add plus one to the counter
