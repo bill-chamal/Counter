@@ -4,7 +4,7 @@
 <img src="/img/play_store_512.png.png" alt= “” width="20%" style="display: block; margin: 0 auto">
 
 ## How the app looks like
-["Mobile app"](/img/counter_app.jpg)
+!["Mobile app"](/img/counter_app.jpg)
 
 Instructions
  - Click Count to add plus one to the counter
